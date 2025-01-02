@@ -1,5 +1,7 @@
 # excel-sales-report
-AtliQ Hardwares: Sales & Finance Analytics Project
+AtliQ Hardwares:
+Sales & Finance Analytics Project
+
 Objective:
 AtliQ Hardwares, a global leader in computer peripherals (PCs, printers, mice, etc.), aims to optimize its sales strategies, improve profitability, and enhance its decision-making processes through comprehensive sales and financial data analysis.
 
